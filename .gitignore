@@ -105,3 +105,4 @@ dist
 
 # Development data
 data
+output.json
